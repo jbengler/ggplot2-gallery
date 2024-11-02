@@ -17,7 +17,6 @@ Meta data requirements:
 - `name`: the actual name of the R package (required)
 - `thumbnail`: location of the thumbnail (required, standard is `images/ghuser-ghrepo.png`)
 - `url`: url to the desired landing page you'd like people to first see for the extension (the extension's home page, a vignette, or as a final resort, if not specified, the extension's github page)
-- `jslibs`: a comma separated list of javascript library names that the extension depends on, with markdown links to the home pages of the libraries
 - `ghuser`: the github user/org where the github repository for the extension resides (required)
 - `ghrepo`: the github repository name where the extension resides (required)
 - `tags`: comma separated list (with no spaces) of tags that describe the extension - see other extension's tags for ideas

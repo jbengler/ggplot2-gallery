@@ -821,7 +821,6 @@ widgets:
 - name: GGally
   thumbnail: images/ggally.png
   url: https://ggobi.github.io/ggally/
-  jslib: >
   ghuser: ggobi
   ghrepo: ggally
   tags: visualization,general
@@ -837,7 +836,6 @@ widgets:
 - name: ggseqlogo
   thumbnail: images/ggseqlogo.png
   url: https://github.com/omarwagih/ggseqlogo
-  jslib: >
   ghuser: omarwagih
   ghrepo: ggseqlogo
   tags: visualization,general
@@ -853,7 +851,6 @@ widgets:
 - name: ggChernoff
   thumbnail: images/ggChernoff.png
   url: https://github.com/Selbosh/ggChernoff
-  jslib: >
   ghuser: Selbosh
   ghrepo: ggChernoff
   tags: visualization

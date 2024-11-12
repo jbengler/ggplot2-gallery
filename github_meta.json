@@ -363,8 +363,8 @@
     "forks_count": 31,
     "watchers_count": 411
   },
-  "lemons_stars": {
-    "cran": false,
+  "lemon_stars": {
+    "cran": true,
     "stargazers_count": 184,
     "open_issues_count": 5,
     "forks_count": 11,

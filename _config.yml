@@ -14,8 +14,6 @@ widgets:
   ghrepo: ggQQunif
   tags: visualization,quantiles,p-values,statistics,big data
   cran: true
-  release: 0.1.5
-  examples:
   ghauthor: rcorty
   short: >
     Make QQ plots for big data expected to be uniformly distributed, e.g. p-values.
@@ -31,8 +29,6 @@ widgets:
   ghrepo: ggupset
   tags: visualization,upset,combination matrix
   cran: true
-  release:
-  examples: https://github.com/const-ae/ggupset#example
   ghauthor: const-ae
   short: >
     Combination Matrix Axis for 'ggplot2' to Create 'UpSet' Plots
@@ -51,8 +47,6 @@ widgets:
   ghrepo: xmrr
   tags: XmR, Visualization, Control Charts, QC, XBar
   cran: true
-  release:
-  examples: https://sramhc.shinyapps.io/xmrbuilder/
   ghauthor: Alex Zanidean
   short: >
     Generate XMR Control Chart Data from Time-Series Data.
@@ -66,8 +60,6 @@ widgets:
   ghrepo: gg3D
   tags: 3D, Visualization
   cran: false
-  release:
-  examples: http://htmlpreview.github.io/?https://github.com/AckerDWM/gg3D/blob/master/gg3D-vignette.html
   ghauthor: Daniel Acker
   short: >
     3D perspective plots for ggplot2
@@ -81,8 +73,6 @@ widgets:
   ghrepo: ggQC
   tags: QC, XmR, XbarR, SixSigma, Visualization
   cran: true
-  release:
-  examples: http://ggqc.r-bar.net/
   ghauthor: Kenith Grey
   short: >
     Use ggQC to plot single, faceted and multi-layered quality control charts .
@@ -96,8 +86,6 @@ widgets:
   ghrepo: ggdist
   tags: visualization,uncertainty,confidence,probability
   cran: true
-  release:
-  examples: https://mjskay.github.io/ggdist/articles
   ghauthor: mjskay
   short: >
     'ggdist' provides stats and geoms for visualizing distributions and uncertainty.
@@ -118,8 +106,6 @@ widgets:
   ghrepo: ggedit
   tags: visualization, interactive, shiny, general,themes
   cran: true
-  release:
-  examples:
   ghauthor: yonicd
   short: >
     ggedit is aimed to interactively edit ggplot layers, scales and themes aesthetics
@@ -133,8 +119,6 @@ widgets:
   ghrepo: ggpage
   tags: visualization,text
   cran: true
-  release:
-  examples: https://emilhvitfeldt.github.io/ggpage/
   ghauthor: emilhvitfeldt
   short: >
     Creates Page Layout Visualizations.
@@ -151,8 +135,6 @@ widgets:
   ghrepo: ggpca
   tags: visualization,dimensionality_reduction,PCA,t-SNE,UMAP
   cran: true
-  release:
-  examples: https://cran.rstudio.com/web/packages/ggpca/vignettes/ggpca-examples.html
   ghauthor: Yaoxiang Li
   short: >
     Provides tools for creating publication-ready PCA, t-SNE, and UMAP plots.
@@ -170,8 +152,6 @@ widgets:
   ghrepo: ggbreak
   tags: visualization, geoms
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/ggbreak/vignettes/ggbreak.html
   ghauthor: YuLab-SMU
   short: >
     Set Axis Break for 'ggplot2'
@@ -185,8 +165,6 @@ widgets:
   ghrepo: ggimg
   tags: visualization, geoms
   cran: true
-  release:
-  examples: 
   ghauthor: statsmaths
   short: >
     Graphics Layers for Plotting Image Data with ggplot2.
@@ -205,8 +183,6 @@ widgets:
   ghrepo: gganatogram
   tags: anatograms, tissue, visualization, anatomy, expression, pharmacology
   cran: false
-  release:
-  examples:
   ghauthor: jespermaag
   short: >
     gganatogram makes it possible to visualise tissues for different organisms 
@@ -224,8 +200,6 @@ widgets:
   ghrepo: ggforce
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: thomasp85
   short: >
     ggforce is aimed at providing missing functionality to ggplot2 through the extension system introduced with ggplot2 v2.0.0.
@@ -238,8 +212,6 @@ widgets:
   ghrepo: ggalt
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: hrbrmstr
   short: >
     A compendium of ‘geoms’, ‘coords’ and ‘stats’ for ‘ggplot2’.
@@ -253,8 +225,6 @@ widgets:
   ghrepo: ggiraph
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: davidgohel
   short: >
     htmlwidget to make 'ggplot' graphics interactive.
@@ -267,8 +237,6 @@ widgets:
   ghrepo: ggmuller
   tags: visualization,evolution,dynamics
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/ggmuller/vignettes/ggmuller.html
   ghauthor: robjohnnoble
   short: >
     Creates Muller plots for visualizing evolutionary dynamics.
@@ -283,8 +251,6 @@ widgets:
   ghrepo: ggstance
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: lionel-
   short: >
     ggstance implements horizontal versions of common ggplot2 geoms.
@@ -297,8 +263,6 @@ widgets:
   ghrepo: ggrepel
   tags: visualization,general
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html
   ghauthor: slowkow
   short: >
     Repel overlapping text labels away from each other.
@@ -311,8 +275,6 @@ widgets:
   ghrepo: ggraph
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: thomasp85
   short: >
     ggraph is tailored at plotting graph-like data structures (graphs, networks, trees, hierarchies...).
@@ -325,8 +287,6 @@ widgets:
   ghrepo: gginnards
   tags: visualization,general,layer manipulation,debug
   cran: true
-  release:
-  examples: https://docs.r4photobiology.info/gginnards/articles
   ghauthor: aphalo
   short: >
     Find, delete, insert and move plot layers. Delete unused variables from 
@@ -345,8 +305,6 @@ widgets:
   ghrepo: ggpp
   tags: visualization,general
   cran: true
-  release:
-  examples: https://docs.r4photobiology.info/ggpp/articles
   ghauthor: aphalo
   short: >
     Plot annotations, data labels, plot insets, filter labels by local 
@@ -367,8 +325,6 @@ widgets:
   ghrepo: ggpmisc
   tags: visualization,statistics,general
   cran: true
-  release:
-  examples: https://docs.r4photobiology.info/ggpmisc/articles
   ghauthor: aphalo
   short: >
     Model equation, line, residuals (lm, quantile, MA, rlm, etc.), P, F, AIC, 
@@ -389,8 +345,6 @@ widgets:
   ghrepo: geomnet
   tags: visualization,general
   cran: false
-  release:
-  examples:
   ghauthor: sctyner
   short: >
     geomnet implements network visualizations in ggplot2 via geom_net.
@@ -403,8 +357,6 @@ widgets:
   ghrepo: ggExtra
   tags: histogram,marginal,density
   cran: true
-  release:
-  examples: http://daattali.com/shiny/ggExtra-ggMarginal-demo/
   ghauthor: daattali
   short: >
     ggExtra lets you add marginal density plots or histograms to ggplot2 scatterplots.
@@ -417,8 +369,6 @@ widgets:
   ghrepo: ggfortify
   tags: visualization,general
   cran: true
-  release:
-  examples: https://github.com/sinhrks/ggfortify#examples
   ghauthor: terrytangyuan
   short: >
     The unified interface to ggplot2 many popular statistical pakackage results.
@@ -435,8 +385,6 @@ widgets:
   ghrepo: autoplotly
   tags: visualization,general
   cran: true
-  release:
-  examples: https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/
   ghauthor: terrytangyuan
   short: >
     Automatic generation of interactive visualizations for popular statistical results.
@@ -453,8 +401,6 @@ widgets:
   ghrepo: gganimate
   tags: visualization,general
   cran: true
-  release:
-  examples: https://gganimate.com
   ghauthor: thomasp85
   short: >
     A Grammar of Animated Graphics.
@@ -472,8 +418,6 @@ widgets:
   ghrepo: ggfx
   tags: visualization,general
   cran: true
-  release:
-  examples: https://ggfx.data-imaginist.com/
   ghauthor: thomasp85
   short: >
     Pixel Filters for 'ggplot2' and 'grid'
@@ -490,8 +434,6 @@ widgets:
   ghrepo: plotROC
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: sachsmc
   short: >
     plotROC provides functions to generate an interactive ROC curve plot 
@@ -505,8 +447,6 @@ widgets:
   ghrepo: ggbump
   tags: visualization,general,geoms
   cran: true
-  release:
-  examples:
   ghauthor: davidsjoberg
   short: >
     Bump Chart and Sigmoid Curves.
@@ -521,8 +461,6 @@ widgets:
   ghrepo: ggthemes
   tags: visualization,general,themes
   cran: true
-  release:
-  examples:
   ghauthor: jrnold
   short: >
     Some extra geoms, scales, and themes for ggplot.
@@ -535,8 +473,6 @@ widgets:
   ghrepo: ggspectra
   tags: visualization,general
   cran: true
-  release:
-  examples: https://docs.r4photobiology.info/ggspectra/articles
   ghauthor: aphalo
   short: >
     Plot light-related spectra, peaks, valleys, half maximum, labels with 
@@ -558,8 +494,6 @@ widgets:
   ghrepo: ggstatsplot
   tags: visualization,statistics
   cran: true
-  release: 
-  examples: https://indrajeetpatil.github.io/ggstatsplot/
   ghauthor: IndrajeetPatil
   short: >
     'ggstatsplot' provides a collection of functions to enhance 'ggplot2'
@@ -582,8 +516,6 @@ widgets:
   ghrepo: ggnetwork
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: briatte
   short: >
     The ggnetwork package provides a way to build network plots with ggplot2.
@@ -596,8 +528,6 @@ widgets:
   ghrepo: ggtech
   tags: visualization,general,themes
   cran: false
-  release:
-  examples:
   ghauthor: ricardo-bion
   short: >
     ggplot2 tech themes, scales, and geoms.
@@ -610,8 +540,6 @@ widgets:
   ghrepo: ggradar
   tags: visualization,general
   cran: false
-  release:
-  examples:
   ghauthor: ricardo-bion
   short: >
     ggradar allows you to build radar charts with ggplot2.
@@ -624,8 +552,6 @@ widgets:
   ghrepo: ggx
   tags: visualization,nlp
   cran: true
-  release:
-  examples:
   ghauthor: brandmaier
   short: >
     A Natural Language Interface to 'ggplot2'.
@@ -646,8 +572,6 @@ widgets:
   ghrepo: ggTimeSeries
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: Ather-Energy
   short: >
     This R package offers novel time series visualisations.
@@ -660,8 +584,6 @@ widgets:
   ghrepo: ggtree
   tags: visualization,general
   cran: false
-  release:
-  examples: https://guangchuangyu.github.io/ggtree/featuredArticles/
   ghauthor: GuangchuangYu
   short: >
     gtree is designed for visualizing phylogenetic tree and different types of associated annotation data.
@@ -674,8 +596,6 @@ widgets:
   ghrepo: ggseas
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: ellisp
   short: >
     Seasonal adjustment on the fly extension for ggplot2.
@@ -688,8 +608,6 @@ widgets:
   ghrepo: ggsci
   tags: visualization,general
   cran: true
-  release:
-  examples: https://nanx.me/ggsci/
   ghauthor: road2stat
   short: >
     A collection of ‘ggplot2’ color palettes inspired by scientific journals 
@@ -704,8 +622,6 @@ widgets:
   ghrepo: ggmosaic
   tags: visualization,general
   cran: true
-  release:
-  examples:
   ghauthor: haleyjeppson
   short: >
     ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
@@ -718,8 +634,6 @@ widgets:
   ghrepo: survminer
   tags: visualization,survival
   cran: true
-  release:
-  examples: https://www.r-bloggers.com/survival-plots-have-never-been-so-informative/
   ghauthor: kassambara
   short: >
     Drawing Survival Curves using 'ggplot2'
@@ -736,8 +650,6 @@ widgets:
   ghrepo: ggeasy
   tags: visualization,teaching
   cran: true
-  release:
-  examples: https://jonocarroll.github.io/ggeasy/
   ghauthor: jonocarroll
   short: >
     Easy Access to 'ggplot2' Commands
@@ -752,8 +664,6 @@ widgets:
   ghrepo: ggside
   tags: visualization,correlation
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/ggside/index.html
   ghauthor: jtlandis
   short: >
     Side Grammar Graphics
@@ -772,8 +682,6 @@ widgets:
   ghrepo: ggcorrplot
   tags: visualization,correlation
   cran: true
-  release:
-  examples: https://rpkgs.datanovia.com/ggcorrplot/
   ghauthor: kassambara
   short: >
     Visualization of a correlation matrix using 'ggplot2'
@@ -790,8 +698,6 @@ widgets:
   ghrepo: ggpubr
   tags: visualization,statistics
   cran: true
-  release:
-  examples: https://rpkgs.datanovia.com/ggpubr/
   ghauthor: kassambara
   short: >
     ‘ggplot2’ Based Publication Ready Plots
@@ -810,8 +716,6 @@ widgets:
   ghrepo: ggthemr
   tags: visualization,general,themes
   cran: false
-  release:
-  examples:
   ghauthor: cttobin
   short: >
    Themes for ggplot
@@ -825,8 +729,6 @@ widgets:
   ghrepo: ggally
   tags: visualization,general
   cran: true
-  release:
-  examples: https://ggobi.github.io/ggally/
   ghauthor: ggobi
   short: >
      ggally extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
@@ -840,8 +742,6 @@ widgets:
   ghrepo: ggseqlogo
   tags: visualization,general
   cran: true
-  release:
-  examples: https://github.com/omarwagih/ggseqlogo
   ghauthor: omarwagih
   short: >
      Publication-ready sequence logos using ggplot2.
@@ -855,7 +755,6 @@ widgets:
   ghrepo: ggChernoff
   tags: visualization
   cran: true
-  examples: https://github.com/Selbosh/ggChernoff
   ghauthor: Selbosh
   short: >
      Visualise multivariate data using human faces
@@ -870,8 +769,6 @@ widgets:
   ghrepo: ggridges
   tags: visualization,general
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/ggridges/vignettes/gallery.html
   ghauthor: clauswilke
   short: >
     Ridgeline plot geoms for 'ggplot2'
@@ -885,8 +782,6 @@ widgets:
   ghrepo: lemon
   tags: visualization,brackets,axis
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/lemon/vignettes/capped-axes.html
   ghauthor: stenfanedwards
   short: >
     Repositioning legends and adding brackets to axes to 'ggplot2'.
@@ -900,8 +795,6 @@ widgets:
   ghrepo: cowplot
   tags: visualization,general,themes
   cran: true
-  release:
-  examples: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
   ghauthor: clauswilke
   short: >
     Streamlined plot theme and plot annotations for 'ggplot2'
@@ -915,8 +808,6 @@ widgets:
   ghrepo: qqplotr
   tags: quantile-quantile,probability-probability
   cran: true
-  release:
-  examples: https://github.com/aloy/qqplotr
   ghauthor: almeidaxan
   short: >
     Quantile-quantile and probability-probability plot extensions for 'ggplot2'
@@ -930,7 +821,6 @@ widgets:
   ghrepo: ggalluvial
   tags: visualization,categorical,time series
   cran: true
-  examples:
   ghauthor: corybrunson
   short: >
     A 'ggplot2' extension for alluvial diagrams.
@@ -944,7 +834,6 @@ widgets:
   ghrepo: patchwork
   tags: visualization,composition
   cran: true
-  examples:
   ghauthor: thomasp85
   short: >
     Easy composition of ggplot plots using arithmetic operators
@@ -958,7 +847,6 @@ widgets:
   ghrepo: ggquiver
   tags: visualization,quiver,velocity,vector
   cran: true
-  examples:
   ghauthor: mitchelloharawild
   short: >
     Quiver/velocity plots for 'ggplot2'.
@@ -973,7 +861,6 @@ widgets:
   ghrepo: ggsignif
   tags: visualization,multiple comparisons
   cran: true
-  examples:
   ghauthor: const-ae and IndrajeetPatil
   short: >
     Significance Brackets for 'ggplot2'.
@@ -995,7 +882,6 @@ widgets:
   ghrepo: ggdag
   tags: visualization,dags,inference
   cran: true
-  examples: https://ggdag.malco.io/articles/intro-to-ggdag.html
   ghauthor: malcolmbarrett
   short: >
     Causal directed acyclic graphs (DAGs) in `ggplot2`
@@ -1009,7 +895,6 @@ widgets:
   ghrepo: ggformula
   tags: visualization,general,interface
   cran: true
-  examples: https://projectmosaic.github.io/ggformula/articles/ggformula.html
   ghauthor: rpruim
   short: >
     `ggplot2` via formulas and pipes
@@ -1023,8 +908,6 @@ widgets:
   ghrepo: ggbeeswarm
   tags: visualization, beeswarm, categorical
   cran: true
-  release:
-  examples: https://github.com/eclarke/ggbeeswarm#examples
   ghauthor: Erik Clarke and Scott Sherrill-Mix
   short: >
     Create beeswarm plots, which avoids overlapping datapoints.
@@ -1051,7 +934,6 @@ widgets:
   ghrepo: ggpol
   tags: visualization,general
   cran: true
-  examples: https://erocoar.github.io/ggpol/
   ghauthor: erocoar
   short: >
     ggpol adds parliament diagrams and several other geoms to ggplot2.
@@ -1064,7 +946,6 @@ widgets:
   ghrepo: ggpirate
   tags: visualization
   cran: false
-  examples: https://github.com/mikabr/ggpirate/blob/master/README.md
   ghauthor: mikabr
   short: >
     Pirate plots for `ggplot2`
@@ -1078,7 +959,6 @@ widgets:
   ghrepo: esquisse
   tags: visualization,interface
   cran: true
-  examples: https://github.com/dreamRs/esquisse/blob/master/README.md
   ghauthor: dreamrs
   short: >
     Explore and Visualize Your Data Interactively with `ggplot2`
@@ -1092,7 +972,6 @@ widgets:
   ghrepo: ggdark
   tags: visualization,general,themes
   cran: true
-  examples: https://github.com/nsgrantham/ggdark/blob/master/README.md
   ghauthor: nsgrantham
   short: >
     Dark Mode for `ggplot2` Themes
@@ -1106,7 +985,6 @@ widgets:
   ghrepo: sugrrants
   tags: visualization,calendar,time-series
   cran: true
-  examples: https://pkg.earo.me/sugrrants
   ghauthor: earowang
   short: >
     Supporting Graphs for Analysing Temporal Data with `ggplot2`.
@@ -1122,7 +1000,6 @@ widgets:
   ghrepo: tvthemes
   tags: visualization,general,palettes,themes
   cran: true
-  examples: https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/
   ghauthor: Ryo-N7
   short: >
     `ggplot2` Themes & Palettes from popular TV shows!
@@ -1138,7 +1015,6 @@ widgets:
   ghrepo: ggfittext
   tags: visualization,general,text
   cran: true
-  examples: https://wilkox.org/ggfittext/articles/introduction-to-ggfittext.html
   ghauthor: wilkox
   short: >
     `ggplot2` geoms to fit text in a box
@@ -1153,7 +1029,6 @@ widgets:
   ghrepo: ggparty
   tags: visualization,tree,partykit
   cran: true
-  examples: https://github.com/martin-borkovec/ggparty/wiki
   ghauthor: martin-borkovec
   short: >
     `ggplot2` visualizations for the `partykit` package
@@ -1169,7 +1044,6 @@ widgets:
   ghrepo: gggenes
   tags: visualization,general,genetics
   cran: true
-  examples: https://wilkox.org/gggenes/articles/introduction-to-gggenes.html
   ghauthor: wilkox
   short: >
     `ggplot2` geoms to draw gene arrow maps
@@ -1184,7 +1058,6 @@ widgets:
   ghrepo: gggenomes
   tags: visualization,genetics,genomics
   cran: true
-  examples: https://thackl.github.io/gggenomes/index.html
   ghauthor: thackl
   short: >
     a grammar of graphics for comparative genomics
@@ -1198,7 +1071,6 @@ widgets:
   ghrepo: treemapify
   tags: visualization,general,treemap
   cran: true
-  examples: https://wilkox.org/treemapify/articles/introduction-to-treemapify.html
   ghauthor: wilkox
   short: >
     Draw treemaps in `ggplot2`
@@ -1213,7 +1085,6 @@ widgets:
   ghrepo: lindia
   tags: visualization,general,diagnostics,regression
   cran: true
-  examples: https://github.com/yeukyul/lindia
   ghauthor: yeukyul
   short: >
     Create diagnostics plots for linear regression
@@ -1229,7 +1100,6 @@ widgets:
   ghrepo: gghalves
   tags: visualization,general
   cran: true
-  examples: https://erocoar.github.io/gghalves/
   ghauthor: erocoar
   short: >
     gghalves adds half-geoms to `ggplot2`.
@@ -1243,7 +1113,6 @@ widgets:
   ghrepo: ggrastr
   tags: visualization,raster
   cran: true
-  examples: https://htmlpreview.github.io/?https://raw.githubusercontent.com/VPetukhov/ggrastr/master/inst/doc/Raster_geoms.html
   ghauthor: vpetukhov
   short: >
     Rasterize only specific layers of your plot
@@ -1259,7 +1128,6 @@ widgets:
   ghrepo: ggpointdensity
   tags: visualization,general
   cran: true
-  examples: https://github.com/LKremer/ggpointdensity
   ghauthor: LKremer
   short: >
     Introduces `geom_pointdensity()`: A cross between a scatter plot and a 2D density plot.
@@ -1278,8 +1146,6 @@ widgets:
   ghrepo: ggsom
   tags: visualization,SOM,multi-dimensional,parallel-coordinates
   cran: true
-  release: 0.4.0
-  examples: https://nbviewer.jupyter.org/github/OldLipe/cap394/blob/master/ets_eda.ipynb
   ghauthor: oldlipe
   short: >
     The aim of this package is to offer more variability of graphics based on the self-organizing maps.
@@ -1295,8 +1161,6 @@ widgets:
   ghrepo: ggnewscale
   tags: visualization,general,scales
   cran: true
-  release: 0.4.0
-  examples: https://eliocamp.github.io/codigo-r/en/2018/09/multiple-color-fill-scales-ggplot2/
   ghauthor: eliocamp
   short: >
     Use multiple fill and colour scales in 'ggplot2'.
@@ -1310,8 +1174,6 @@ widgets:
   ghrepo: ggh4x
   tags: visualization,general,scales,facets
   cran: true
-  release: 0.1.2.1
-  examples: https://teunbrand.github.io/ggh4x/articles/ggh4x.html
   ghauthor: teunbrand
   short: >
     Options for tailored facets, multiple colourscales and miscellaneous
@@ -1326,8 +1188,6 @@ widgets:
   ghrepo: ggarrow
   tags: visualization, arrows, lines
   cran: true
-  release: 0.0.0.9000
-  examples: https://teunbrand.github.io/ggarrow/index.html
   ghauthor: teunbrand
   short: >
     Arrow geoms and arrow theme element with customisation options
@@ -1343,8 +1203,6 @@ widgets:
   ghrepo: legendry
   tags: visualization, guide, legend, axis
   cran: true
-  release: 0.1.0
-  examples: https://teunbrand.github.io/legendry/
   ghauthor: teunbrand
   short: >
     Extended legends and axes
@@ -1360,8 +1218,6 @@ widgets:
   ghrepo: ggcharts
   tags: visualization,general
   cran: true
-  release: 0.1.0
-  examples: https://thomas-neitmann.github.io/ggcharts/articles/highlight.html
   ghauthor: thomas-neitmann
   short: >
     Shorten the distance from data visualization idea to actual plot
@@ -1378,8 +1234,6 @@ widgets:
   ghrepo: humapr
   tags: visualization,general,tabulation,choropleth
   cran: false
-  release: 0.1.0
-  examples: https://benskov.github.io/humapr/
   ghauthor: benskov
   short: >
     Visualise topographic human data with choropleths
@@ -1398,8 +1252,6 @@ widgets:
   ghrepo: ggshadow
   tags: visualization,general
   cran: true
-  release: 0.0.2
-  examples: https://github.com/marcmenem/ggshadow/
   ghauthor: marcmenem
   short: >
     Draw a shadow below lines to make busy plots more aesthetically pleasing
@@ -1416,8 +1268,6 @@ widgets:
   ghrepo: ggseg
   tags: visualization,brain imaging
   cran: true
-  release: 0.0.1
-  examples: https://lcbc-uio.github.io/ggseg/
   ghauthor: Athanasiamo
   short: >
     Draw polygons of brain atlas segmentations
@@ -1434,8 +1284,6 @@ widgets:
   ghrepo: mdthemes
   tags: visualization,themes
   cran: false
-  release: 0.1.0
-  examples: https://github.com/thomas-neitmann/mdthemes
   ghauthor: thomas-neitmann
   short: >
     'ggplot2' themes that render text as markdown/HTML
@@ -1450,8 +1298,6 @@ widgets:
   ghrepo: ggwordcloud
   tags: visualization,text
   cran: true
-  release: 0.5.0
-  examples: https://lepennec.github.io/ggwordcloud/
   ghauthor: lepennec
   short: >
     A word cloud text geom for 'ggplot2'.
@@ -1471,8 +1317,6 @@ widgets:
   ghrepo: ggasym
   tags: visualization,multi-dimensional,matrix,scales
   cran: false
-  release: 0.1.3
-  examples: https://jhrcook.github.io/ggasym/index.html
   ghauthor: jhrcook
   short: >
     Asymmetric matrix plotting with multiple scales.
@@ -1487,8 +1331,6 @@ widgets:
   ghrepo: gglorenz
   tags: visualization,general,statistics
   cran: true
-  release: 0.0.2
-  examples: https://github.com/jjchern/gglorenz
   ghauthor: jjchern
   short: >
     Plotting Lorenz curves with the blessing of ggplot2.
@@ -1502,7 +1344,6 @@ widgets:
   ghrepo: hrbrthemes
   tags: theme,typography
   cran: true
-  examples: https://cinc.rud.is/web/packages/hrbrthemes/
   ghauthor: hrbrmstr
   short: A compilation of extra {ggplot2} themes, scales and utilities, including a spell check function for plot label fields and an overall emphasis on typography.
   description: >
@@ -1517,7 +1358,6 @@ widgets:
   ghrepo: ggpattern
   tags: visualization,pattern
   cran: true
-  examples: https://trevorldavis.com/R/ggpattern/dev/
   ghauthor: coolbutuseless
   short: Pattern fills for ggplot2 geoms.
   description: >
@@ -1531,8 +1371,6 @@ widgets:
   ghrepo: ggtext
   tags: general,theme,typography
   cran: true
-  release:
-  examples: https://wilkelab.org/ggtext/articles/theme_elements.html
   ghauthor: Claus Wilke
   short: >
     Improved text rendering support for `ggplot2`
@@ -1546,8 +1384,6 @@ widgets:
   ghrepo: calendR
   tags: visualization, calendar, time-series
   cran: true
-  release: 1.0
-  examples: https://r-coder.com/calendar-plot-r/
   ghauthor: R-CoderDotCom
   short: >
     Ready to Print Monthly and Yearly Calendars
@@ -1562,8 +1398,6 @@ widgets:
   ghrepo: ggip
   tags: visualization, cyber, space-filling curves
   cran: true
-  release: 0.1.0
-  examples: https://davidchall.github.io/ggip/articles/ggip.html
   ghauthor: davidchall
   short: >
     Data visualization of IP addresses and networks
@@ -1579,8 +1413,6 @@ widgets:
   ghrepo: gglm
   tags: visualization,modeling,diagnostic
   cran: true
-  release: 0.1.0
-  examples: https://graysonwhite.github.io/gglm/#examples
   ghauthor: graysonwhite
   short: >
     Grammar of Graphics for linear model diagnostic plots.
@@ -1599,8 +1431,6 @@ widgets:
   ghrepo: econocharts
   tags: economics, microeconomics, macroeconomics
   cran: false
-  release: 0.0.1
-  examples: https://r-coder.com/economics-charts-r/
   ghauthor: R-CoderDotCom
   short: >
     Microeconomics and Macroeconomics Charts
@@ -1616,8 +1446,6 @@ widgets:
   ghrepo: complex-upset
   tags: visualization,venn,set,intersections,venn-diagram,upset
   cran: true
-  release: 0.8.0
-  examples: https://krassowski.github.io/complex-upset/articles/Examples_R.html
   ghauthor: krassowski
   short: >
     Visualize set intersections and add `ggplot2` annotations
@@ -1634,8 +1462,6 @@ widgets:
   ghrepo: ggchromatic
   tags: visualization,scales
   cran: false
-  release: 0.0.1.0
-  examples: https://teunbrand.github.io/ggchromatic/
   ghauthor: teunbrand
   short: >
     Colourspace Scales for 'ggplot2'
@@ -1652,8 +1478,6 @@ widgets:
   ghrepo: ggheatmap
   tags: visualization, heatmap
   cran: true
-  release: 1.0
-  examples: https://github.com/XiaoLuo-boy/ggheatmap
   ghauthor: XiaoLuo-boy
   short: >
     ggplot2 version of heatmap
@@ -1677,7 +1501,6 @@ widgets:
   ghrepo: see
   tags: visualizations,statistics
   cran: true
-  examples: https://easystats.github.io/see/articles/
   ghauthor: easystats
   short: Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
   description: >
@@ -1693,7 +1516,6 @@ widgets:
   ghrepo: directlabels
   tags: visualization, direct-labels, positioning, general, plot-labelling
   cran: true
-  examples: https://tdhock.github.io/directlabels/docs/index.html, https://tdhock.github.io/directlabels/examples.html
   ghauthor: tdhock
   short: Framework for adding direct labels to lattice or ggplot2 plots.
   description: >
@@ -1711,7 +1533,6 @@ widgets:
   ghrepo: ggHoriPlot
   tags: visualization,general,horizon-plot,time-series
   cran: true
-  examples: https://rivasiker.github.io/ggHoriPlot/articles/examples.html
   ghauthor: rivasiker
   short: >
     Horizon Plots for `ggplot2`
@@ -1728,8 +1549,6 @@ widgets:
   ghrepo: ggtrace
   tags: visualization
   cran: true
-  release: 0.2.0
-  examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
   ghauthor: sheridar
   short: >
     Outline groups of data points using ggplot2
@@ -1745,8 +1564,6 @@ widgets:
   ghrepo: ggESDA
   tags: visualization,symbolic data,interval-valued data
   cran: true
-  release: 0.1.0
-  examples: https://github.com/kiangkiangkiang/ggESDA#readme
   ghauthor: kiangkiangkiang
   short: >
     Exploratory Symbolic Data Analysis with 'ggplot2'.
@@ -1763,8 +1580,6 @@ widgets:
   ghrepo: geomtextpath
   tags: typography,plot-labelling,visualization
   cran: true
-  release: 0.1.0
-  examples: https://github.com/AllanCameron/geomtextpath
   ghauthor: AllanCameron
   short: >
     Create curved text and directly label lines in `ggplot`
@@ -1783,8 +1598,6 @@ widgets:
   ghrepo: ggdensity
   tags: visualization,density-estimation
   cran: true
-  release: 
-  examples: https://jamesotto852.github.io/ggdensity
   ghauthor: jamesotto852
   short: >
     Interpretable bivariate density visualization with highest density regions
@@ -1805,7 +1618,6 @@ widgets:
   ghrepo: ggtranscript
   tags: visualization,genetics,genomics,transcripts,annotation
   cran: false
-  examples: https://github.com/dzhang32/ggtranscript#readme
   ghauthor: dzhang32
   short: >
     Visualizing transcript structure and annotation using `ggplot2`
@@ -1827,7 +1639,6 @@ widgets:
   ghrepo: piecepackr
   tags: board games, geoms
   cran: true
-  examples: https://github.com/piecepackr/piecepackr#geom-piece-ggplot2
   ghauthor: trevorld
   short: >
     Board game graphics
@@ -1841,7 +1652,6 @@ widgets:
   ghrepo: oblicubes
   tags: visualization, geoms
   cran: true
-  examples: https://trevorldavis.com/R/oblicubes/reference/geom_oblicubes.html
   ghauthor: trevorld
   short: >
     3D Rendering Using Obliquely Projected Cubes and Cuboids
@@ -1855,8 +1665,6 @@ widgets:
   ghrepo: ggDoubleHeat
   tags: visualization, geoms
   cran: true
-  release:
-  examples: https://pursuitofdatascience.github.io/ggDoubleHeat/articles/introduction.html
   ghauthor: PursuitOfDataScience
   short: >
     A heatmap-like visualization tool
@@ -1872,7 +1680,6 @@ widgets:
   ghrepo: nflplotR
   tags: general,scales,geoms,images,theme,elements
   cran: true
-  examples: https://nflplotr.nflverse.com/articles/nflplotR.html
   ghauthor: mrcaseb
   short: >
     'nflplotR' provides a set of functions to visualize National Football League analysis in 'ggplot2'.
@@ -1889,8 +1696,6 @@ widgets:
   ghrepo: ggbraid
   tags: visualization,general,geoms
   cran: false
-  release: 0.2.2
-  examples: https://nsgrantham.github.io/ggbraid/articles/temps.html
   ghauthor: nsgrantham
   short: >
     Braid ribbons in `ggplot2`.
@@ -1906,7 +1711,6 @@ widgets:
   ghrepo: ggblanket
   tags: visualization
   cran: true
-  examples: https://davidhodge931.github.io/ggblanket/reference/index.html
   ghauthor: davidhodge931
   short: >
     Simplify ggplot2 visualisation
@@ -1919,7 +1723,6 @@ widgets:
   ghrepo: ggpie
   tags: visualization,general,pie,donut,rose pie
   cran: true
-  examples: https://cran.r-project.org/web/packages/ggpie/vignettes/ggpie.html
   ghauthor: showteeth
   short: >
     Create pie and donut plot using `ggplot2`.
@@ -1939,7 +1742,6 @@ widgets:
   ghrepo: ggstar
   tags: visualization, different shape points
   cran: true
-  examples: https://cran.r-project.org/web/packages/ggstar/vignettes/ggstar.html
   ghauthor: xiangpin
   short: >
     Multiple Geometric Shape Point Layer for 'ggplot2'
@@ -1954,7 +1756,6 @@ widgets:
   ghrepo: ggarchery
   tags: visualization, arrows
   cran: true
-  examples: https://github.com/mdhall272/ggarchery#readme
   ghauthor: mdhall272
   short: >
     Flexible segment geoms with arrows for 'ggplot2'
@@ -1968,7 +1769,6 @@ widgets:
   ghrepo: tidyterra
   tags: visualization, raster, spatial
   cran: true
-  examples: https://dieghernan.github.io/tidyterra/articles/tidyterra.html
   ghauthor: dieghernan
   short: >
     'ggplot2' geoms for  'terra' rasters and vectors
@@ -1983,8 +1783,6 @@ widgets:
   ghrepo: ggseqplot
   tags: visualization,sequence analysis
   cran: true
-  release: 
-  examples: https://maraab23.github.io/ggseqplot/articles/ggseqplot.html
   ghauthor: maraab23
   short: >
     'ggseqplot' renders sequence plots using ggplot2.
@@ -2002,8 +1800,6 @@ widgets:
   ghrepo: ggsurvfit
   tags: visualization,survival,statistics
   cran: true
-  release: 0.2.0
-  examples: http://www.danieldsjoberg.com/ggsurvfit/articles/gallery.html
   ghauthor: ddsjoberg
   short: >
     Flexible Time-to-Event Figures
@@ -2023,7 +1819,6 @@ widgets:
   ghrepo: ggsector
   tags: visualization, geoms, sector, fan
   cran: true
-  examples: https://cran.r-project.org/web/packages/ggsector/vignettes/ggsector.html
   ghauthor: yanpd01
   short: >
     Create sector plots using `ggplot2`.
@@ -2041,7 +1836,6 @@ widgets:
   ghrepo: ggterrorbar
   tags: visualization, geoms
   cran: false
-  examples: https://mival.netlify.app/blog/2023/01/introducing-geom_terrorbar/
   ghauthor: mivalek
   short: >
     Create T-errorbars like in THAT paper
@@ -2071,7 +1865,6 @@ widgets:
   ghrepo: ggmapinset
   tags: visualization,spatial
   cran: true
-  examples: https://cidm-ph.github.io/ggmapinset/articles/ggmapinset.html
   ghauthor: arcresu
   short: >
     Add zoomed inset panels to your ggplot maps
@@ -2087,8 +1880,6 @@ widgets:
   ghrepo: ggmagnify
   tags: visualization,geoms,inset,zoom,magnification
   cran: false
-  release: 0.1.5
-  examples: https://github.com/hughjonesd/ggmagnify
   ghauthor: hughjonesd
   short: >
     Create a magnified inset of part of a ggplot object. 
@@ -2105,7 +1896,6 @@ widgets:
   ghrepo: ggblend
   tags: visualization,blending,affine transformation,layer algebra,compositing
   cran: true
-  examples: https://mjskay.github.io/ggblend/
   ghauthor: mjskay
   short: >
     Algebra of operations for blending, copying, adjusting, transforming, and
@@ -2127,7 +1917,6 @@ widgets:
   ghrepo: ggflowchart
   tags: visualization,flowchart,network,diagram
   cran: true
-  examples: https://nrennie.github.io/ggflowchart/articles/minimal-example.html
   ghauthor: nrennie
   short: >
     Create flowcharts using `ggplot2`.
@@ -2147,8 +1936,6 @@ widgets:
   ghrepo: ggrain
   tags: visualization, general
   cran: true
-  release: 0.0.3
-  examples: https://github.com/const-ae/ggupset#example 
   ghauthor: njudd
   short: >
     Raincloud geom for 'ggplot2'
@@ -2163,8 +1950,6 @@ widgets:
   ghrepo: ggoutlierscatterplot
   tags: visualization,outlier,outliers,scatterplot,algorithms,algorithm,regression
   cran: false
-  release: 4.0
-  examples: https://github.com/lukastay/ggoutlierscatterplot/tree/main/man
   ghauthor: lukastay
   short: >
     Visualize multidimensional outlier detection algorithms
@@ -2179,8 +1964,6 @@ widgets:
   ghrepo: ggautothemes
   tags: visualization,theme,themeing,color,fill,hue,ggthemes
   cran: false
-  release: 1.3
-  examples: https://github.com/lukastay/ggoutlierscatterplot/tree/main/man
   ghauthor: lukastay
   short: >
     Quickly see how different themes will look on your ggplot visual.
@@ -2196,8 +1979,6 @@ widgets:
   ghrepo: AMR
   tags: visualization,epidemiology,color,fill
   cran: true
-  release: 2.1.1
-  examples: https://msberends.github.io/AMR/reference/plot.html
   ghauthor: msberends
   short: >
     Plotting AMR results for SIR categories, MIC values, and disk diffusion diameters
@@ -2212,8 +1993,6 @@ widgets:
   ghrepo: ichimoku
   tags: visualization,time-series,finance,trading,candlestick
   cran: true
-  release: 1.4.10
-  examples: https://shikokuchuo.net/ichimoku/articles/reference.html
   ghauthor: shikokuchuo
   short: >
     Visualization and Tools for Ichimoku Kinko Hyo Strategies
@@ -2232,8 +2011,6 @@ widgets:
   ghrepo: eheat
   tags: visualization,heatmap
   cran: false
-  release: 0.0.0.9000
-  examples: https://github.com/Yunuuuu/eheat
   ghauthor: Yunuuuu
   short: >
     Extended ComplexHeatmap with ggplot2
@@ -2250,7 +2027,6 @@ widgets:
   ghrepo: ggstats
   tags: visualization,p-values,forest plot,geoms,positions,statistics,Likert
   cran: true
-  examples: https://larmarange.github.io/ggstats/
   ghauthor: larmarange
   short: >
     Forest plots of model coefficients, Likert plots and custom proportions
@@ -2267,8 +2043,6 @@ widgets:
   ghrepo: ggfoundry
   tags: visualization,geoms,color,fill,shapes
   cran: true
-  release: 0.2.0
-  examples: https://cgoo4.github.io/ggfoundry/
   ghauthor: cgoo4
   short: >
     Shape Foundry & Geom for 'ggplot2'.
@@ -2282,8 +2056,6 @@ widgets:
   ghrepo: ggalign
   tags: visualization,heatmap
   cran: true
-  release: 0.0.4
-  examples: https://yunuuuu.github.io/ggalign/
   ghauthor: Yunuuuu
   short: >
     A 'ggplot2' Extension for Consistent Axis Alignment
@@ -2317,7 +2089,6 @@ widgets:
   ghrepo: geofacet
   tags: visualization,facet,facets,geo,geography,composition
   cran: true
-  examples: https://ryanhafen.com/blog/geofacet/
   ghauthor: hafen
   short: >
     Easy faceting according to geographic position

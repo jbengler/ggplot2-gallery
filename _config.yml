@@ -2094,3 +2094,16 @@ widgets:
     Easy faceting according to geographic position
   description: >
     This R package provides geofaceting functionality for ggplot2. Geofaceting arranges a sequence of plots of data for different geographical entities into a grid that strives to preserve some of the original geographical orientation of the entities.
+
+- name: tidyplots
+  thumbnail: images/tidyplots.png
+  url: https://tidyplots.org
+  ghuser: jbengler
+  ghrepo: tidyplots
+  tags: visualization,general,theme,color,statistics
+  cran: true
+  ghauthor: jbengler
+  short: >
+    Tidy plots for scientific papers
+  description: >
+    The goal of tidyplots is to streamline the creation of publication-ready plots for scientific papers. It allows to gradually add, remove and adjust plot components using a consistent and intuitive syntax.
